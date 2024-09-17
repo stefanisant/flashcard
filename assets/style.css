@@ -1,3 +1,8 @@
+:root {
+  --text-color: #DBE4EF;
+  --card-front-color: #144480;
+  --card-back-color: #00F4BF;
+}
 .bai-jamjuree-extralight {
     font-family: "Bai Jamjuree", sans-serif;
     font-weight: 200;
@@ -70,7 +75,8 @@
     font-style: italic;
   }
   body {
-    background-color: bisque;
+    background-color: url('img/bg-desktop.webp');
+    font-family: Bai Jamjuree;
   } 
     #container {
       display:flex ; 
