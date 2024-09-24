@@ -75,7 +75,7 @@
     font-style: italic;
   }
   body {
-    background-color: url('/assets/img/bg-desktop.webp');
+    background: url('/assets/img/bg-desktop.webp');
     font-family: Bai Jamjuree;
   } 
     #container {
