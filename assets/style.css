@@ -80,6 +80,7 @@
   } 
     #container {
       display:flex ; 
+      flex-wrap: wrap;
 }
 .cartao {
   margin: 1rem 1rem;
